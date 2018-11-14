@@ -17,4 +17,4 @@ const Todos = ({todos,deleteToDo}) => {
     );
 }
 
-export default Todos
+export default Todos;
